@@ -1,4 +1,7 @@
-This is a EJS project.
+#Daily Journal
+###Blog project
 
-image.png
+![img2](/images/Screenshot%202022-09-27%20114157.png)
+![img1](/images/Screenshot%202022-09-27%20114059.png)
+
 
